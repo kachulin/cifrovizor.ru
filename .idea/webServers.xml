@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba3a5463-10f5-4146-bd0c-7f17137a841a" name="cifrovizor.ru" url="https://cifrovizor.ru">
+        <fileTransfer host="37.140.192.44" port="22" rootFolder="/var/www/u5020191/data/www/cifrovizor.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
