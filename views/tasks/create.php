@@ -60,7 +60,4 @@
             });
         }, false);
     })();
-    //$.validator.methods.email = function( value, element ) {
-    //    return this.optional( element ) || /[a-z]+@[a-z]+\.[a-z]{2,}/.test( value );
-    //}
 </script>
